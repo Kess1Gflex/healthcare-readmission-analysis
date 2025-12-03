@@ -205,7 +205,3 @@ ORDER BY percentage_readmitted DESC;
     - **Change only:** 15%
     - **Diabetes meds:** 35%
 - Medication review programs could help reduce readmissions for patients with complex drug regimens.
-
-## Data Files
-
-[healthcare_readmission_analysis.csv](attachment:1e3eb0b3-dde3-485b-b6b9-f23eda4dd364:healthcare_readmission_analysis.csv)

@@ -161,7 +161,8 @@ ORDER BY percentage_readmitted DESC;
 
 ### Tableau Dashboard
 
-![Screenshot (279).png](attachment:e2aa89ae-8509-4ec1-90e8-58d3ce287ace:Screenshot_(279).png)
+!![Dashboard](Healthcare Dashboard.png)
+
 
 **Live Dashboard:** [*Click to Explore*](https://public.tableau.com/views/Readmission_17631105789020/ReadmissionDashboard?:language=en-GB&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
